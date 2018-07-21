@@ -10,10 +10,15 @@ Compiling
 ---
 The project is compiled in Ubunutu 18.04.
 To compile, 
-   `mkdir build
-    cd build
-    cmake ..
-    make
+   ```
+   mkdir build
+    cd build 
+    cmake .. 
+    make 
     ./ExtendedKF
-    `
+    ```
 
+Folder Structure
+--- 
+data - Data folder containing the original data
+src - Folder containing all the source codes
