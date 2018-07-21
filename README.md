@@ -9,7 +9,7 @@ The RMSE values obtained are within the specifications.
 Compiling
 ---
 The project is compiled in Ubunutu 18.04.
-To compile, 
+To compile and run, 
 ```
     mkdir build
     cd build 
